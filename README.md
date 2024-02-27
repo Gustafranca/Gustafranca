@@ -5,10 +5,9 @@
 
 ![Gustavo GitHub stats]( 	https://github-readme-stats.vercel.app/api?username=Gustafranca&theme=blue-green)
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustafranca&theme=blue-green)
+
+##
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-fran%C3%A7a-de-almeida/)
-
-## Tecnologias
-
 <div style="display: inline_block"><br/>
 
 <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
