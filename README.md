@@ -1,7 +1,7 @@
 
 
 
-### Olá! Gustavo aqui! 😊
+### HEY GUSTAVO HERE! 
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustafranca&show_icons=true&theme=dark,PAT_1 )
 
