@@ -3,7 +3,8 @@
 
 ### HEY GUSTAVO HERE! 
 
-![Gustavo GitHub stats]( 	https://github-readme-stats.vercel.app/api?username=Gustafranca&theme=blue-green)
+![Gustavo GitHub stats]( 	https://github-readme-stats.vercel.app/api?username=Gustafranca&theme=tokyonight)
+
 
 
 ##
