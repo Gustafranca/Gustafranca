@@ -16,7 +16,7 @@
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
+<img alt="JAVA" src="https://img.shields.io/badge/Java-A52A2A?style=for-the-badge&logo=openjdk&logoColor=white">
 
 
 <br>
