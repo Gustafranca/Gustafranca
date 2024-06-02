@@ -5,6 +5,7 @@
 
 ![Gustavo GitHub stats]( 	https://github-readme-stats.vercel.app/api?username=Gustafranca&theme=tokyonight)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustafranca)](https://github.com/Gustafranca/github-readme-stats) -->
 
 
 ##
