@@ -21,6 +21,6 @@
 
 
 <br>
-Obrigado por visitar!!
+Thanks for visiting!!
 
 </div>
